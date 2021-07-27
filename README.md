@@ -1,5 +1,7 @@
-### Hi there 👋
+### Hello
+I'm Eduardo,
 
+If you need to contact me, you can send me an email at eduardotbraun+github@gmail.com
 <!--
 **eduardobraun/eduardobraun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
